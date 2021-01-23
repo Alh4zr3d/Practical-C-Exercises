@@ -57,7 +57,7 @@ int main() {
 		printf("forty");
 	else if (value >= 50 && value <= 59)
 		printf("fifty");
-	else if (value >= 60 && value <= 69)
+	else if (value >= 60 && value <= 69 /*Nice*/)
 		printf("sixty");
 	else if (value >= 70 && value <= 79)
 		printf("seventy");
